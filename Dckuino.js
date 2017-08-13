@@ -1,5 +1,6 @@
 /*
  *  Dckuino.js, an open source project licenced under MIT License
+ *  Modified by BlueArduino20
  */
 
 /* jshint esversion: 6 */
